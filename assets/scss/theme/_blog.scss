@@ -1,4 +1,4 @@
-.blog-list {
+.Blog-list {
 	.item {
 		.title {
 			font-size: 1.275rem;
@@ -57,7 +57,7 @@
 	
 }
 
-.blog-nav {
+.Blog-nav {
 	.nav-link {
 		background: $theme-color-primary;
 		color: #fff;
@@ -88,12 +88,12 @@
 }
 
 
-.blog-post {
+.Blog-post {
 	.title {
 		font-weight: bold;
 		font-size: 2rem;
 	}
-	.blog-post-body {
+	.Blog-post-body {
 		p, li {
 			font-size: 1.125rem;
 			line-height: 1.6;
