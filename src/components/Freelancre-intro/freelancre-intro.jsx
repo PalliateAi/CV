@@ -9,7 +9,7 @@ const FreelancreIntro = () => {
         <div className="row">
           <div className="col-lg-4">
             <div className="img">
-              <img src="/img/eddy.jpeg" alt="Eddy Ku Headshot" />
+              <img src="/img/image/eddy.jpeg" alt="EddyKuHeadshot" />
             </div>
           </div>
           <div className="col-lg-8 valign">
