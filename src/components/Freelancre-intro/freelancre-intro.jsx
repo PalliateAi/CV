@@ -26,7 +26,7 @@ const FreelancreIntro = () => {
                       strings: [
                         "Product Owner",
                         "Front End",
-                        "UX UI Designer",
+                        "UX UI Design",
                       ],
                       autoStart: true,
                       loop: true,

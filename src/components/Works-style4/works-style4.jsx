@@ -48,23 +48,23 @@ const WorksStyle4 = () => {
                   <h6>Duappy</h6>
                   <p>Product Owner</p>
                 </div>
-                <a className="rota">
+                <a className="rota" href="https://duappy.com" target="_blank">
                   <img src="/img/portfolio/freelancer/duappy.png" alt="image" style={{ borderRadius: "10px" }} />
                   <div className="item-img-overlay"></div>
                 </a>
 
                 <div className="tags">
                   <span>
-                    <Link href="https://duappy.com">App</Link>
+                    <Link href="https://duappy.com" target="_blank">App</Link>
                   </span>
                   <span>
-                    <Link href="https://duappy.com">Social Dance</Link>
+                    <Link href="https://duappy.com" target="_blank">Social Dance</Link>
                   </span>
                   <span>
-                    <Link href="https://duappy.com">Flutter</Link>
+                    <Link href="https://duappy.com" target="_blank">Flutter</Link>
                   </span>
                   <span>
-                    <Link href="https://duappy.com">B2B2C</Link>
+                    <Link href="https://duappy.com" target="_blank">B2B2C</Link>
                   </span>
                 </div>
               </div>
@@ -78,23 +78,23 @@ const WorksStyle4 = () => {
                   <h6>Syndi Health</h6>
                   <p>UX UI Designer</p>
                 </div>
-                <a className="rota">
+                <a className="rota" href="https://www.syndi.health" target="_blank">
                   <img src="/img/portfolio/freelancer/syndi.png" alt="image" style={{ borderRadius: "10px" }} />
                   <div className="item-img-overlay"></div>
                 </a>
 
                 <div className="tags">
                   <span>
-                    <Link href="https://www.syndi.health">App</Link>
+                    <Link href="https://www.syndi.health" target="_blank">App</Link>
                   </span>
                   <span>
-                    <Link href="https://www.syndi.health">B2B</Link>
+                    <Link href="https://www.syndi.health" target="_blank">B2B</Link>
                   </span>
                   <span>
-                    <Link href="https://www.syndi.health">Mental Health</Link>
+                    <Link href="https://www.syndi.health" target="_blank">Mental Health</Link>
                   </span>
                   <span>
-                    <Link href="https://www.syndi.health">AI</Link>
+                    <Link href="https://www.syndi.health" target="_blank">AI</Link>
                   </span>
                 </div>
               </div>
@@ -109,24 +109,24 @@ const WorksStyle4 = () => {
                   <h6>The King Prawn</h6>
                   <p>Product Owner</p>
                 </div>
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="rota">
+                <Link href="https://thekingprawn.com" target="_blank">
+                  <a className="rota" href="https://thekingprawn.com" target="_blank">
                     <img src="/img/portfolio/freelancer/kingprawn.png" alt="image" style={{ borderRadius: "10px" }} />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
                 <div className="tags">
                   <span>
-                    <Link href="https://thekingprawn.com">Web App</Link>
+                    <Link href="https://thekingprawn.com" target="_blank">Web App</Link>
                   </span>
                   <span>
-                    <Link href="https://thekingprawn.com">Social Cohesion</Link>
+                    <Link href="https://thekingprawn.com" target="_blank">Social Cohesion</Link>
                   </span>
                   <span>
-                    <Link href="https://thekingprawn.com">B2B</Link>
+                    <Link href="https://thekingprawn.com" target="_blank">B2B</Link>
                   </span>
                   <span>
-                    <Link href="https://thekingprawn.com">NodeJs</Link>
+                    <Link href="https://thekingprawn.com" target="_blank">NodeJs</Link>
                   </span>
                 </div>
               </div>
@@ -140,24 +140,24 @@ const WorksStyle4 = () => {
                   <h6>Musidex</h6>
                   <p>Product Owner</p>
                 </div>
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="rota">
+                <Link href="https://musidex.co.uk" target="_blank">
+                  <a className="rota" href="https://musidex.co.uk" target="_blank">
                     <img src="/img/portfolio/freelancer/musidex.png" alt="image" style={{ borderRadius: "10px" }} />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
                 <div className="tags">
                   <span>
-                    <Link href="https://musidex.co.uk">Web App</Link>
+                    <Link href="https://musidex.co.uk" target="_blank">Web App</Link>
                   </span>
                   <span>
-                    <Link href="https://musidex.co.uk">Content Collaboration</Link>
+                    <Link href="https://musidex.co.uk" target="_blank">Content Collaboration</Link>
                   </span>
                   <span>
-                    <Link href="https://musidex.co.uk">NodeJs</Link>
+                    <Link href="https://musidex.co.uk" target="_blank">NodeJs</Link>
                   </span>
                   <span>
-                    <Link href="https://musidex.co.uk">B2C</Link>
+                    <Link href="https://musidex.co.uk" target="_blank">B2C</Link>
                   </span>
                 </div>
               </div>
@@ -172,21 +172,21 @@ const WorksStyle4 = () => {
                   <h6>Cooper & Sons</h6>
                   <p>Web Design</p>
                 </div>
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="rota">
+                <Link href="https://www.cooperandsons.uk" target="_blank">
+                  <a className="rota" href="https://www.cooperandsons.uk" target="_blank">
                     <img src="/img/portfolio/freelancer/cooper.png" alt="image" style={{ borderRadius: "10px" }} />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
                 <div className="tags">
                   <span>
-                    <Link href="https://www.cooperandsons.uk">Web Design</Link>
+                    <Link href="https://www.cooperandsons.uk" target="_blank">Web Design</Link>
                   </span>
                   <span>
-                    <Link href="https://www.cooperandsons.uk">SEO</Link>
+                    <Link href="https://www.cooperandsons.uk" target="_blank">SEO</Link>
                   </span>
                   <span>
-                    <Link href="https://www.cooperandsons.uk">HTML CSS JS</Link>
+                    <Link href="https://www.cooperandsons.uk" target="_blank">HTML CSS JS</Link>
                   </span>
                 </div>
               </div>
@@ -201,21 +201,21 @@ const WorksStyle4 = () => {
                   <h6>Zapp World</h6>
                   <p>Web Design</p>
                 </div>
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="rota">
+                <Link href="https://zappworld.com" target="_blank">
+                  <a className="rota" href="https://zappworld.com" target="_blank">
                     <img src="/img/portfolio/freelancer/zapp.png" alt="image" style={{ borderRadius: "10px" }} />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
                 <div className="tags">
                   <span>
-                    <Link href="https://zappworld.com">Web Design</Link>
+                    <Link href="https://zappworld.com" target="_blank">Web Design</Link>
                   </span>
                   <span>
-                    <Link href="https://zappworld.com">SEO</Link>
+                    <Link href="https://zappworld.com" target="_blank">SEO</Link>
                   </span>
                   <span>
-                    <Link href="https://zappworld.com">HTML CSS JS</Link>
+                    <Link href="https://zappworld.com" target="_blank">HTML CSS JS</Link>
                   </span>
                 </div>
               </div>
@@ -230,18 +230,18 @@ const WorksStyle4 = () => {
                   <h6>Mackenzie & Hartley Tools</h6>
                   <p>Ecommerce</p>
                 </div>
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="rota">
+                <Link href="https://www.mackenzieandhartleytools.com/" target="_blank">
+                  <a className="rota" href="https://www.mackenzieandhartleytools.com/" target="_blank">
                     <img src="/img/portfolio/freelancer/mackenzie.png" alt="image" style={{ borderRadius: "10px" }} />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
                 <div className="tags">
                   <span>
-                    <Link href="https://www.mackenzieandhartleytools.com/">ECommerce</Link>
+                    <Link href="https://www.mackenzieandhartleytools.com/" target="_blank">ECommerce</Link>
                   </span>
                   <span>
-                    <Link href="https://www.mackenzieandhartleytools.com/">B2C</Link>
+                    <Link href="https://www.mackenzieandhartleytools.com/" target="_blank">B2C</Link>
                   </span>
 
                 </div>
@@ -257,21 +257,21 @@ const WorksStyle4 = () => {
                   <h6>WeConsilium</h6>
                   <p>UX UI Design</p>
                 </div>
-                <Link href={`/project-details2/project-details2-dark`}>
-                  <a className="rota">
+                <Link href="https://weconsilium.uk" target="_blank">
+                  <a className="rota" href="https://weconsilium.uk" target="_blank">
                     <img src="/img/portfolio/freelancer/wecon.png" alt="image" style={{ borderRadius: "10px" }} />
                     <div className="item-img-overlay"></div>
                   </a>
                 </Link>
                 <div className="tags">
                   <span>
-                    <Link href="https://weconsilium.uk">App</Link>
+                    <Link href="https://weconsilium.uk" target="_blank">App</Link>
                   </span>
                   <span>
-                    <Link href="https://weconsilium.uk">InsurTech</Link>
+                    <Link href="https://weconsilium.uk" target="_blank">InsurTech</Link>
                   </span>
                   <span>
-                    <Link href="https://weconsilium.uk">Adobe XD</Link>
+                    <Link href="https://weconsilium.uk" target="_blank">Adobe XD</Link>
                   </span>
                 </div>
               </div>
