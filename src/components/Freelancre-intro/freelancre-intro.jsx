@@ -47,7 +47,7 @@ const FreelancreIntro = () => {
             <ul className="flex">
               <li className="flex">
                 <div className="numb valign">
-                  <h3>7+</h3>
+                  <h3>9</h3>
                 </div>
                 <div className="text valign">
                   <p>

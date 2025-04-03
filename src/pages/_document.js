@@ -1,4 +1,4 @@
-import Document, { Html, Head, Main, NextScript } from "next/document";
+import Document, {Html, Head, Main, NextScript} from "next/document";
 
 class MyDocument extends Document {
   static async getInitialProps(ctx) {
@@ -13,14 +13,8 @@ class MyDocument extends Document {
       <Html lang="en">
         <Head>
           <meta httpEquiv="X-UA-Compatible" content="IE=edge" />
-          <meta
-            name="keywords"
-            content="Eddy Ku - Product Owner | UX Designer | Front End Engineer"
-          />
-          <meta
-            name="description"
-            content="Eddy Ku - Product Owner | UX Designer | Front End Engineer"
-          />
+          <meta name="keywords" content="Eddy Ku - Product Manager" />
+          <meta name="description" content="Eddy Ku - Product Manager" />
           <meta name="author" content="" />
           <link rel="shortcut icon" href="/img/favicon.ico" />
           <link
